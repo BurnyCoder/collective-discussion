@@ -1,0 +1,2 @@
+python-dotenv==1.0.0
+portkey-ai==1.2.0 
